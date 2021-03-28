@@ -7,4 +7,4 @@ web课程大作业
 ---
 ### 用例图
 ---
-![](images/group_msg.png)
+![](images/用例图.png)
