@@ -6,5 +6,4 @@ web课程大作业
 ## [Task3 Web项目需求](https://github.com/shishc9/WebWork/wiki/Task3-Web%E9%A1%B9%E7%9B%AE%E9%9C%80%E6%B1%82)
 ## Task4 Web应用建模
 ### 用例图
----
 ![](images/用例图.png)
