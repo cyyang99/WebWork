@@ -7,3 +7,5 @@ web课程大作业
 ## Task4 Web应用建模
 ### 用例图
 ![](images/用例图.png)
+### 活动图
+![用户活动图](images/活动图.png)
